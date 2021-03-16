@@ -26,7 +26,7 @@ function draw() {
   hAngle = map(h,0,12,0,360);
 
   translate(400,200);
-  rotate(275);
+  rotate(270);
   hands();
 }
 
